@@ -1,0 +1,6886 @@
+[
+  {
+      "model":"goods.category",
+      "pk":1,
+      "fields":{
+         "title":"Категория 1"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":2,
+      "fields":{
+         "title":"Категория 2"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":3,
+      "fields":{
+         "title":"категория 3"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":4,
+      "fields":{
+         "title":"Категория 4"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":5,
+      "fields":{
+         "title":"Категория 5"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":6,
+      "fields":{
+         "title":"Категория 6"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":7,
+      "fields":{
+         "title":"Категория 7"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":8,
+      "fields":{
+         "title":"Категория 8"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":9,
+      "fields":{
+         "title":"Категория 9"
+      }
+   },
+   {
+      "model":"goods.category",
+      "pk":10,
+      "fields":{
+         "title":"Категория 10"
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":1,
+      "fields":{
+         "title":"Подкатегория 1",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":2,
+      "fields":{
+         "title":"Подкатегория 2",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":3,
+      "fields":{
+         "title":"Подкатегория 3",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":4,
+      "fields":{
+         "title":"Подкатегория 4",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":5,
+      "fields":{
+         "title":"Подкатегория 5",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":6,
+      "fields":{
+         "title":"Подкатегория 6",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":7,
+      "fields":{
+         "title":"Подкатегория 7",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":8,
+      "fields":{
+         "title":"Подкатегория 8",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":9,
+      "fields":{
+         "title":"Подкатегория 9",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":10,
+      "fields":{
+         "title":"Подкатегория 10",
+         "category":1
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":11,
+      "fields":{
+         "title":"Подкатегория 11",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":12,
+      "fields":{
+         "title":"Подкатегория 12",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":13,
+      "fields":{
+         "title":"Подкатегория 13",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":14,
+      "fields":{
+         "title":"Подкатегория 14",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":15,
+      "fields":{
+         "title":"Подкатегория 15",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":16,
+      "fields":{
+         "title":"Подкатегория 16",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":17,
+      "fields":{
+         "title":"Подкатегория 17",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":18,
+      "fields":{
+         "title":"Подкатегория 18",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":19,
+      "fields":{
+         "title":"Подкатегория 19",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":20,
+      "fields":{
+         "title":"Подкатегория 20",
+         "category":2
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":21,
+      "fields":{
+         "title":"Подкатегория 21",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":22,
+      "fields":{
+         "title":"Подкатегория 22",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":23,
+      "fields":{
+         "title":"Подкатегория 23",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":24,
+      "fields":{
+         "title":"Подкатегория 24",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":25,
+      "fields":{
+         "title":"Подкатегория 25",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":26,
+      "fields":{
+         "title":"Подкатегория 26",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":27,
+      "fields":{
+         "title":"Подкатегория 27",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":28,
+      "fields":{
+         "title":"Подкатегория 28",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":29,
+      "fields":{
+         "title":"Подкатегория 29",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":30,
+      "fields":{
+         "title":"Подкатегория 30",
+         "category":3
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":31,
+      "fields":{
+         "title":"Подкатегория 31",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":32,
+      "fields":{
+         "title":"Подкатегория 32",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":33,
+      "fields":{
+         "title":"Подкатегория 33",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":34,
+      "fields":{
+         "title":"Подкатегория 34",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":35,
+      "fields":{
+         "title":"Подкатегория 35",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":36,
+      "fields":{
+         "title":"Подкатегория 36",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":37,
+      "fields":{
+         "title":"Подкатегория 37",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":38,
+      "fields":{
+         "title":"Подкатегория 38",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":39,
+      "fields":{
+         "title":"Подкатегория 39",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":40,
+      "fields":{
+         "title":"Подкатегория 40",
+         "category":4
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":41,
+      "fields":{
+         "title":"Подкатегория 41",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":42,
+      "fields":{
+         "title":"Подкатегория 42",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":43,
+      "fields":{
+         "title":"Подкатегория 43",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":44,
+      "fields":{
+         "title":"Подкатегория 44",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":45,
+      "fields":{
+         "title":"Подкатегория 45",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":46,
+      "fields":{
+         "title":"Подкатегория 46",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":47,
+      "fields":{
+         "title":"Подкатегория 47",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":48,
+      "fields":{
+         "title":"Подкатегория 48",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":49,
+      "fields":{
+         "title":"Подкатегория 49",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":50,
+      "fields":{
+         "title":"Подкатегория 50",
+         "category":5
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":51,
+      "fields":{
+         "title":"Подкатегория 51",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":52,
+      "fields":{
+         "title":"Подкатегория 52",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":53,
+      "fields":{
+         "title":"Подкатегория 53",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":54,
+      "fields":{
+         "title":"Подкатегория 54",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":55,
+      "fields":{
+         "title":"Подкатегория 55",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":56,
+      "fields":{
+         "title":"Подкатегория 56",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":57,
+      "fields":{
+         "title":"Подкатегория 57",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":58,
+      "fields":{
+         "title":"Подкатегория 58",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":59,
+      "fields":{
+         "title":"Подкатегория 59",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":60,
+      "fields":{
+         "title":"Подкатегория 60",
+         "category":6
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":61,
+      "fields":{
+         "title":"Подкатегория 61",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":62,
+      "fields":{
+         "title":"Подкатегория 62",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":63,
+      "fields":{
+         "title":"Подкатегория 63",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":64,
+      "fields":{
+         "title":"Подкатегория 64",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":65,
+      "fields":{
+         "title":"Подкатегория 65",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":66,
+      "fields":{
+         "title":"Подкатегория 66",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":67,
+      "fields":{
+         "title":"Подкатегория 67",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":68,
+      "fields":{
+         "title":"Подкатегория 68",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":69,
+      "fields":{
+         "title":"Подкатегория 69",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":70,
+      "fields":{
+         "title":"Подкатегория 70",
+         "category":7
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":71,
+      "fields":{
+         "title":"Подкатегория 71",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":72,
+      "fields":{
+         "title":"Подкатегория 72",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":73,
+      "fields":{
+         "title":"Подкатегория 73",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":74,
+      "fields":{
+         "title":"Подкатегория 74",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":75,
+      "fields":{
+         "title":"Подкатегория 75",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":76,
+      "fields":{
+         "title":"Подкатегория 76",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":77,
+      "fields":{
+         "title":"Подкатегория 77",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":78,
+      "fields":{
+         "title":"Подкатегория 78",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":79,
+      "fields":{
+         "title":"Подкатегория 79",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":80,
+      "fields":{
+         "title":"Подкатегория 80",
+         "category":8
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":81,
+      "fields":{
+         "title":"Подкатегория 81",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":82,
+      "fields":{
+         "title":"Подкатегория 82",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":83,
+      "fields":{
+         "title":"Подкатегория 83",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":84,
+      "fields":{
+         "title":"Подкатегория 84",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":85,
+      "fields":{
+         "title":"Подкатегория 85",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":86,
+      "fields":{
+         "title":"Подкатегория 86",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":87,
+      "fields":{
+         "title":"Подкатегория 87",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":88,
+      "fields":{
+         "title":"Подкатегория 88",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":89,
+      "fields":{
+         "title":"Подкатегория 89",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":90,
+      "fields":{
+         "title":"Подкатегория 90",
+         "category":9
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":91,
+      "fields":{
+         "title":"Подкатегория 91",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":92,
+      "fields":{
+         "title":"Подкатегория 92",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":93,
+      "fields":{
+         "title":"Подкатегория 93",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":94,
+      "fields":{
+         "title":"Подкатегория 94",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":95,
+      "fields":{
+         "title":"Подкатегория 95",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":96,
+      "fields":{
+         "title":"Подкатегория 96",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":97,
+      "fields":{
+         "title":"Подкатегория 97",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":98,
+      "fields":{
+         "title":"Подкатегория 98",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":99,
+      "fields":{
+         "title":"Подкатегория 99",
+         "category":10
+      }
+   },
+   {
+      "model":"goods.subcategory",
+      "pk":100,
+      "fields":{
+         "title":"Подкатегория 100",
+         "category":10
+      }
+   },
+   {
+   "model":"goods.product",
+   "pk":1,
+   "fields":{
+      "title":"Продукт 1",
+      "subcategory":1,
+      "price":969,
+      "description":"Какое-то описание продукта 1",
+      "quantity":73,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":2,
+   "fields":{
+      "title":"Продукт 2",
+      "subcategory":1,
+      "price":146,
+      "description":"Какое-то описание продукта 2",
+      "quantity":71,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":3,
+   "fields":{
+      "title":"Продукт 3",
+      "subcategory":1,
+      "price":464,
+      "description":"Какое-то описание продукта 3",
+      "quantity":54,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":4,
+   "fields":{
+      "title":"Продукт 4",
+      "subcategory":1,
+      "price":778,
+      "description":"Какое-то описание продукта 4",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":5,
+   "fields":{
+      "title":"Продукт 5",
+      "subcategory":1,
+      "price":644,
+      "description":"Какое-то описание продукта 5",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":6,
+   "fields":{
+      "title":"Продукт 6",
+      "subcategory":2,
+      "price":121,
+      "description":"Какое-то описание продукта 6",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":7,
+   "fields":{
+      "title":"Продукт 7",
+      "subcategory":2,
+      "price":308,
+      "description":"Какое-то описание продукта 7",
+      "quantity":47,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":8,
+   "fields":{
+      "title":"Продукт 8",
+      "subcategory":2,
+      "price":983,
+      "description":"Какое-то описание продукта 8",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":9,
+   "fields":{
+      "title":"Продукт 9",
+      "subcategory":2,
+      "price":868,
+      "description":"Какое-то описание продукта 9",
+      "quantity":19,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":10,
+   "fields":{
+      "title":"Продукт 10",
+      "subcategory":2,
+      "price":228,
+      "description":"Какое-то описание продукта 10",
+      "quantity":56,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":11,
+   "fields":{
+      "title":"Продукт 11",
+      "subcategory":3,
+      "price":10,
+      "description":"Какое-то описание продукта 11",
+      "quantity":94,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":12,
+   "fields":{
+      "title":"Продукт 12",
+      "subcategory":3,
+      "price":582,
+      "description":"Какое-то описание продукта 12",
+      "quantity":63,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":13,
+   "fields":{
+      "title":"Продукт 13",
+      "subcategory":3,
+      "price":909,
+      "description":"Какое-то описание продукта 13",
+      "quantity":77,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":14,
+   "fields":{
+      "title":"Продукт 14",
+      "subcategory":3,
+      "price":605,
+      "description":"Какое-то описание продукта 14",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":15,
+   "fields":{
+      "title":"Продукт 15",
+      "subcategory":3,
+      "price":54,
+      "description":"Какое-то описание продукта 15",
+      "quantity":70,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":16,
+   "fields":{
+      "title":"Продукт 16",
+      "subcategory":4,
+      "price":441,
+      "description":"Какое-то описание продукта 16",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":17,
+   "fields":{
+      "title":"Продукт 17",
+      "subcategory":4,
+      "price":309,
+      "description":"Какое-то описание продукта 17",
+      "quantity":91,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":18,
+   "fields":{
+      "title":"Продукт 18",
+      "subcategory":4,
+      "price":898,
+      "description":"Какое-то описание продукта 18",
+      "quantity":21,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":19,
+   "fields":{
+      "title":"Продукт 19",
+      "subcategory":4,
+      "price":108,
+      "description":"Какое-то описание продукта 19",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":20,
+   "fields":{
+      "title":"Продукт 20",
+      "subcategory":4,
+      "price":112,
+      "description":"Какое-то описание продукта 20",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":21,
+   "fields":{
+      "title":"Продукт 21",
+      "subcategory":5,
+      "price":433,
+      "description":"Какое-то описание продукта 21",
+      "quantity":92,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":22,
+   "fields":{
+      "title":"Продукт 22",
+      "subcategory":5,
+      "price":629,
+      "description":"Какое-то описание продукта 22",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":23,
+   "fields":{
+      "title":"Продукт 23",
+      "subcategory":5,
+      "price":344,
+      "description":"Какое-то описание продукта 23",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":24,
+   "fields":{
+      "title":"Продукт 24",
+      "subcategory":5,
+      "price":929,
+      "description":"Какое-то описание продукта 24",
+      "quantity":30,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":25,
+   "fields":{
+      "title":"Продукт 25",
+      "subcategory":5,
+      "price":623,
+      "description":"Какое-то описание продукта 25",
+      "quantity":97,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":26,
+   "fields":{
+      "title":"Продукт 26",
+      "subcategory":6,
+      "price":272,
+      "description":"Какое-то описание продукта 26",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":27,
+   "fields":{
+      "title":"Продукт 27",
+      "subcategory":6,
+      "price":852,
+      "description":"Какое-то описание продукта 27",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":28,
+   "fields":{
+      "title":"Продукт 28",
+      "subcategory":6,
+      "price":859,
+      "description":"Какое-то описание продукта 28",
+      "quantity":85,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":29,
+   "fields":{
+      "title":"Продукт 29",
+      "subcategory":6,
+      "price":407,
+      "description":"Какое-то описание продукта 29",
+      "quantity":16,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":30,
+   "fields":{
+      "title":"Продукт 30",
+      "subcategory":6,
+      "price":551,
+      "description":"Какое-то описание продукта 30",
+      "quantity":100,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":31,
+   "fields":{
+      "title":"Продукт 31",
+      "subcategory":7,
+      "price":975,
+      "description":"Какое-то описание продукта 31",
+      "quantity":87,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":32,
+   "fields":{
+      "title":"Продукт 32",
+      "subcategory":7,
+      "price":496,
+      "description":"Какое-то описание продукта 32",
+      "quantity":48,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":33,
+   "fields":{
+      "title":"Продукт 33",
+      "subcategory":7,
+      "price":351,
+      "description":"Какое-то описание продукта 33",
+      "quantity":100,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":34,
+   "fields":{
+      "title":"Продукт 34",
+      "subcategory":7,
+      "price":915,
+      "description":"Какое-то описание продукта 34",
+      "quantity":69,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":35,
+   "fields":{
+      "title":"Продукт 35",
+      "subcategory":7,
+      "price":386,
+      "description":"Какое-то описание продукта 35",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":36,
+   "fields":{
+      "title":"Продукт 36",
+      "subcategory":8,
+      "price":176,
+      "description":"Какое-то описание продукта 36",
+      "quantity":91,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":37,
+   "fields":{
+      "title":"Продукт 37",
+      "subcategory":8,
+      "price":154,
+      "description":"Какое-то описание продукта 37",
+      "quantity":91,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":38,
+   "fields":{
+      "title":"Продукт 38",
+      "subcategory":8,
+      "price":871,
+      "description":"Какое-то описание продукта 38",
+      "quantity":16,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":39,
+   "fields":{
+      "title":"Продукт 39",
+      "subcategory":8,
+      "price":373,
+      "description":"Какое-то описание продукта 39",
+      "quantity":52,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":40,
+   "fields":{
+      "title":"Продукт 40",
+      "subcategory":8,
+      "price":318,
+      "description":"Какое-то описание продукта 40",
+      "quantity":19,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":41,
+   "fields":{
+      "title":"Продукт 41",
+      "subcategory":9,
+      "price":216,
+      "description":"Какое-то описание продукта 41",
+      "quantity":11,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":42,
+   "fields":{
+      "title":"Продукт 42",
+      "subcategory":9,
+      "price":452,
+      "description":"Какое-то описание продукта 42",
+      "quantity":74,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":43,
+   "fields":{
+      "title":"Продукт 43",
+      "subcategory":9,
+      "price":238,
+      "description":"Какое-то описание продукта 43",
+      "quantity":81,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":44,
+   "fields":{
+      "title":"Продукт 44",
+      "subcategory":9,
+      "price":339,
+      "description":"Какое-то описание продукта 44",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":45,
+   "fields":{
+      "title":"Продукт 45",
+      "subcategory":9,
+      "price":818,
+      "description":"Какое-то описание продукта 45",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":46,
+   "fields":{
+      "title":"Продукт 46",
+      "subcategory":10,
+      "price":670,
+      "description":"Какое-то описание продукта 46",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":47,
+   "fields":{
+      "title":"Продукт 47",
+      "subcategory":10,
+      "price":263,
+      "description":"Какое-то описание продукта 47",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":48,
+   "fields":{
+      "title":"Продукт 48",
+      "subcategory":10,
+      "price":242,
+      "description":"Какое-то описание продукта 48",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":49,
+   "fields":{
+      "title":"Продукт 49",
+      "subcategory":10,
+      "price":112,
+      "description":"Какое-то описание продукта 49",
+      "quantity":70,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":50,
+   "fields":{
+      "title":"Продукт 50",
+      "subcategory":10,
+      "price":721,
+      "description":"Какое-то описание продукта 50",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":51,
+   "fields":{
+      "title":"Продукт 51",
+      "subcategory":11,
+      "price":596,
+      "description":"Какое-то описание продукта 51",
+      "quantity":52,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":52,
+   "fields":{
+      "title":"Продукт 52",
+      "subcategory":11,
+      "price":105,
+      "description":"Какое-то описание продукта 52",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":53,
+   "fields":{
+      "title":"Продукт 53",
+      "subcategory":11,
+      "price":222,
+      "description":"Какое-то описание продукта 53",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":54,
+   "fields":{
+      "title":"Продукт 54",
+      "subcategory":11,
+      "price":445,
+      "description":"Какое-то описание продукта 54",
+      "quantity":71,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":55,
+   "fields":{
+      "title":"Продукт 55",
+      "subcategory":11,
+      "price":793,
+      "description":"Какое-то описание продукта 55",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":56,
+   "fields":{
+      "title":"Продукт 56",
+      "subcategory":12,
+      "price":976,
+      "description":"Какое-то описание продукта 56",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":57,
+   "fields":{
+      "title":"Продукт 57",
+      "subcategory":12,
+      "price":396,
+      "description":"Какое-то описание продукта 57",
+      "quantity":80,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":58,
+   "fields":{
+      "title":"Продукт 58",
+      "subcategory":12,
+      "price":541,
+      "description":"Какое-то описание продукта 58",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":59,
+   "fields":{
+      "title":"Продукт 59",
+      "subcategory":12,
+      "price":204,
+      "description":"Какое-то описание продукта 59",
+      "quantity":90,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":60,
+   "fields":{
+      "title":"Продукт 60",
+      "subcategory":12,
+      "price":207,
+      "description":"Какое-то описание продукта 60",
+      "quantity":92,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":61,
+   "fields":{
+      "title":"Продукт 61",
+      "subcategory":13,
+      "price":461,
+      "description":"Какое-то описание продукта 61",
+      "quantity":85,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":62,
+   "fields":{
+      "title":"Продукт 62",
+      "subcategory":13,
+      "price":404,
+      "description":"Какое-то описание продукта 62",
+      "quantity":45,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":63,
+   "fields":{
+      "title":"Продукт 63",
+      "subcategory":13,
+      "price":677,
+      "description":"Какое-то описание продукта 63",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":64,
+   "fields":{
+      "title":"Продукт 64",
+      "subcategory":13,
+      "price":826,
+      "description":"Какое-то описание продукта 64",
+      "quantity":49,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":65,
+   "fields":{
+      "title":"Продукт 65",
+      "subcategory":13,
+      "price":931,
+      "description":"Какое-то описание продукта 65",
+      "quantity":60,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":66,
+   "fields":{
+      "title":"Продукт 66",
+      "subcategory":14,
+      "price":650,
+      "description":"Какое-то описание продукта 66",
+      "quantity":85,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":67,
+   "fields":{
+      "title":"Продукт 67",
+      "subcategory":14,
+      "price":18,
+      "description":"Какое-то описание продукта 67",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":68,
+   "fields":{
+      "title":"Продукт 68",
+      "subcategory":14,
+      "price":679,
+      "description":"Какое-то описание продукта 68",
+      "quantity":23,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":69,
+   "fields":{
+      "title":"Продукт 69",
+      "subcategory":14,
+      "price":137,
+      "description":"Какое-то описание продукта 69",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":70,
+   "fields":{
+      "title":"Продукт 70",
+      "subcategory":14,
+      "price":152,
+      "description":"Какое-то описание продукта 70",
+      "quantity":24,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":71,
+   "fields":{
+      "title":"Продукт 71",
+      "subcategory":15,
+      "price":790,
+      "description":"Какое-то описание продукта 71",
+      "quantity":60,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":72,
+   "fields":{
+      "title":"Продукт 72",
+      "subcategory":15,
+      "price":603,
+      "description":"Какое-то описание продукта 72",
+      "quantity":52,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":73,
+   "fields":{
+      "title":"Продукт 73",
+      "subcategory":15,
+      "price":934,
+      "description":"Какое-то описание продукта 73",
+      "quantity":49,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":74,
+   "fields":{
+      "title":"Продукт 74",
+      "subcategory":15,
+      "price":560,
+      "description":"Какое-то описание продукта 74",
+      "quantity":77,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":75,
+   "fields":{
+      "title":"Продукт 75",
+      "subcategory":15,
+      "price":864,
+      "description":"Какое-то описание продукта 75",
+      "quantity":58,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":76,
+   "fields":{
+      "title":"Продукт 76",
+      "subcategory":16,
+      "price":59,
+      "description":"Какое-то описание продукта 76",
+      "quantity":49,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":77,
+   "fields":{
+      "title":"Продукт 77",
+      "subcategory":16,
+      "price":698,
+      "description":"Какое-то описание продукта 77",
+      "quantity":98,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":78,
+   "fields":{
+      "title":"Продукт 78",
+      "subcategory":16,
+      "price":442,
+      "description":"Какое-то описание продукта 78",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":79,
+   "fields":{
+      "title":"Продукт 79",
+      "subcategory":16,
+      "price":898,
+      "description":"Какое-то описание продукта 79",
+      "quantity":86,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":80,
+   "fields":{
+      "title":"Продукт 80",
+      "subcategory":16,
+      "price":277,
+      "description":"Какое-то описание продукта 80",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":81,
+   "fields":{
+      "title":"Продукт 81",
+      "subcategory":17,
+      "price":730,
+      "description":"Какое-то описание продукта 81",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":82,
+   "fields":{
+      "title":"Продукт 82",
+      "subcategory":17,
+      "price":872,
+      "description":"Какое-то описание продукта 82",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":83,
+   "fields":{
+      "title":"Продукт 83",
+      "subcategory":17,
+      "price":468,
+      "description":"Какое-то описание продукта 83",
+      "quantity":23,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":84,
+   "fields":{
+      "title":"Продукт 84",
+      "subcategory":17,
+      "price":392,
+      "description":"Какое-то описание продукта 84",
+      "quantity":11,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":85,
+   "fields":{
+      "title":"Продукт 85",
+      "subcategory":17,
+      "price":204,
+      "description":"Какое-то описание продукта 85",
+      "quantity":85,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":86,
+   "fields":{
+      "title":"Продукт 86",
+      "subcategory":18,
+      "price":129,
+      "description":"Какое-то описание продукта 86",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":87,
+   "fields":{
+      "title":"Продукт 87",
+      "subcategory":18,
+      "price":128,
+      "description":"Какое-то описание продукта 87",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":88,
+   "fields":{
+      "title":"Продукт 88",
+      "subcategory":18,
+      "price":475,
+      "description":"Какое-то описание продукта 88",
+      "quantity":35,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":89,
+   "fields":{
+      "title":"Продукт 89",
+      "subcategory":18,
+      "price":431,
+      "description":"Какое-то описание продукта 89",
+      "quantity":72,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":90,
+   "fields":{
+      "title":"Продукт 90",
+      "subcategory":18,
+      "price":697,
+      "description":"Какое-то описание продукта 90",
+      "quantity":25,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":91,
+   "fields":{
+      "title":"Продукт 91",
+      "subcategory":19,
+      "price":879,
+      "description":"Какое-то описание продукта 91",
+      "quantity":58,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":92,
+   "fields":{
+      "title":"Продукт 92",
+      "subcategory":19,
+      "price":240,
+      "description":"Какое-то описание продукта 92",
+      "quantity":71,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":93,
+   "fields":{
+      "title":"Продукт 93",
+      "subcategory":19,
+      "price":587,
+      "description":"Какое-то описание продукта 93",
+      "quantity":22,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":94,
+   "fields":{
+      "title":"Продукт 94",
+      "subcategory":19,
+      "price":484,
+      "description":"Какое-то описание продукта 94",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":95,
+   "fields":{
+      "title":"Продукт 95",
+      "subcategory":19,
+      "price":313,
+      "description":"Какое-то описание продукта 95",
+      "quantity":16,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":96,
+   "fields":{
+      "title":"Продукт 96",
+      "subcategory":20,
+      "price":229,
+      "description":"Какое-то описание продукта 96",
+      "quantity":45,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":97,
+   "fields":{
+      "title":"Продукт 97",
+      "subcategory":20,
+      "price":95,
+      "description":"Какое-то описание продукта 97",
+      "quantity":76,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":98,
+   "fields":{
+      "title":"Продукт 98",
+      "subcategory":20,
+      "price":535,
+      "description":"Какое-то описание продукта 98",
+      "quantity":48,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":99,
+   "fields":{
+      "title":"Продукт 99",
+      "subcategory":20,
+      "price":40,
+      "description":"Какое-то описание продукта 99",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":100,
+   "fields":{
+      "title":"Продукт 100",
+      "subcategory":20,
+      "price":691,
+      "description":"Какое-то описание продукта 100",
+      "quantity":69,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":101,
+   "fields":{
+      "title":"Продукт 101",
+      "subcategory":21,
+      "price":905,
+      "description":"Какое-то описание продукта 101",
+      "quantity":47,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":102,
+   "fields":{
+      "title":"Продукт 102",
+      "subcategory":21,
+      "price":545,
+      "description":"Какое-то описание продукта 102",
+      "quantity":66,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":103,
+   "fields":{
+      "title":"Продукт 103",
+      "subcategory":21,
+      "price":932,
+      "description":"Какое-то описание продукта 103",
+      "quantity":81,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":104,
+   "fields":{
+      "title":"Продукт 104",
+      "subcategory":21,
+      "price":389,
+      "description":"Какое-то описание продукта 104",
+      "quantity":59,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":105,
+   "fields":{
+      "title":"Продукт 105",
+      "subcategory":21,
+      "price":605,
+      "description":"Какое-то описание продукта 105",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":106,
+   "fields":{
+      "title":"Продукт 106",
+      "subcategory":22,
+      "price":199,
+      "description":"Какое-то описание продукта 106",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":107,
+   "fields":{
+      "title":"Продукт 107",
+      "subcategory":22,
+      "price":663,
+      "description":"Какое-то описание продукта 107",
+      "quantity":46,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":108,
+   "fields":{
+      "title":"Продукт 108",
+      "subcategory":22,
+      "price":716,
+      "description":"Какое-то описание продукта 108",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":109,
+   "fields":{
+      "title":"Продукт 109",
+      "subcategory":22,
+      "price":664,
+      "description":"Какое-то описание продукта 109",
+      "quantity":31,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":110,
+   "fields":{
+      "title":"Продукт 110",
+      "subcategory":22,
+      "price":846,
+      "description":"Какое-то описание продукта 110",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":111,
+   "fields":{
+      "title":"Продукт 111",
+      "subcategory":23,
+      "price":256,
+      "description":"Какое-то описание продукта 111",
+      "quantity":76,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":112,
+   "fields":{
+      "title":"Продукт 112",
+      "subcategory":23,
+      "price":270,
+      "description":"Какое-то описание продукта 112",
+      "quantity":69,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":113,
+   "fields":{
+      "title":"Продукт 113",
+      "subcategory":23,
+      "price":107,
+      "description":"Какое-то описание продукта 113",
+      "quantity":99,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":114,
+   "fields":{
+      "title":"Продукт 114",
+      "subcategory":23,
+      "price":489,
+      "description":"Какое-то описание продукта 114",
+      "quantity":46,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":115,
+   "fields":{
+      "title":"Продукт 115",
+      "subcategory":23,
+      "price":983,
+      "description":"Какое-то описание продукта 115",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":116,
+   "fields":{
+      "title":"Продукт 116",
+      "subcategory":24,
+      "price":30,
+      "description":"Какое-то описание продукта 116",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":117,
+   "fields":{
+      "title":"Продукт 117",
+      "subcategory":24,
+      "price":620,
+      "description":"Какое-то описание продукта 117",
+      "quantity":71,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":118,
+   "fields":{
+      "title":"Продукт 118",
+      "subcategory":24,
+      "price":226,
+      "description":"Какое-то описание продукта 118",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":119,
+   "fields":{
+      "title":"Продукт 119",
+      "subcategory":24,
+      "price":277,
+      "description":"Какое-то описание продукта 119",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":120,
+   "fields":{
+      "title":"Продукт 120",
+      "subcategory":24,
+      "price":485,
+      "description":"Какое-то описание продукта 120",
+      "quantity":52,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":121,
+   "fields":{
+      "title":"Продукт 121",
+      "subcategory":25,
+      "price":516,
+      "description":"Какое-то описание продукта 121",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":122,
+   "fields":{
+      "title":"Продукт 122",
+      "subcategory":25,
+      "price":300,
+      "description":"Какое-то описание продукта 122",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":123,
+   "fields":{
+      "title":"Продукт 123",
+      "subcategory":25,
+      "price":447,
+      "description":"Какое-то описание продукта 123",
+      "quantity":34,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":124,
+   "fields":{
+      "title":"Продукт 124",
+      "subcategory":25,
+      "price":162,
+      "description":"Какое-то описание продукта 124",
+      "quantity":43,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":125,
+   "fields":{
+      "title":"Продукт 125",
+      "subcategory":25,
+      "price":604,
+      "description":"Какое-то описание продукта 125",
+      "quantity":46,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":126,
+   "fields":{
+      "title":"Продукт 126",
+      "subcategory":26,
+      "price":658,
+      "description":"Какое-то описание продукта 126",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":127,
+   "fields":{
+      "title":"Продукт 127",
+      "subcategory":26,
+      "price":503,
+      "description":"Какое-то описание продукта 127",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":128,
+   "fields":{
+      "title":"Продукт 128",
+      "subcategory":26,
+      "price":291,
+      "description":"Какое-то описание продукта 128",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":129,
+   "fields":{
+      "title":"Продукт 129",
+      "subcategory":26,
+      "price":275,
+      "description":"Какое-то описание продукта 129",
+      "quantity":65,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":130,
+   "fields":{
+      "title":"Продукт 130",
+      "subcategory":26,
+      "price":939,
+      "description":"Какое-то описание продукта 130",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":131,
+   "fields":{
+      "title":"Продукт 131",
+      "subcategory":27,
+      "price":12,
+      "description":"Какое-то описание продукта 131",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":132,
+   "fields":{
+      "title":"Продукт 132",
+      "subcategory":27,
+      "price":539,
+      "description":"Какое-то описание продукта 132",
+      "quantity":39,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":133,
+   "fields":{
+      "title":"Продукт 133",
+      "subcategory":27,
+      "price":585,
+      "description":"Какое-то описание продукта 133",
+      "quantity":22,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":134,
+   "fields":{
+      "title":"Продукт 134",
+      "subcategory":27,
+      "price":866,
+      "description":"Какое-то описание продукта 134",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":135,
+   "fields":{
+      "title":"Продукт 135",
+      "subcategory":27,
+      "price":955,
+      "description":"Какое-то описание продукта 135",
+      "quantity":76,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":136,
+   "fields":{
+      "title":"Продукт 136",
+      "subcategory":28,
+      "price":28,
+      "description":"Какое-то описание продукта 136",
+      "quantity":11,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":137,
+   "fields":{
+      "title":"Продукт 137",
+      "subcategory":28,
+      "price":270,
+      "description":"Какое-то описание продукта 137",
+      "quantity":53,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":138,
+   "fields":{
+      "title":"Продукт 138",
+      "subcategory":28,
+      "price":421,
+      "description":"Какое-то описание продукта 138",
+      "quantity":69,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":139,
+   "fields":{
+      "title":"Продукт 139",
+      "subcategory":28,
+      "price":604,
+      "description":"Какое-то описание продукта 139",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":140,
+   "fields":{
+      "title":"Продукт 140",
+      "subcategory":28,
+      "price":549,
+      "description":"Какое-то описание продукта 140",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":141,
+   "fields":{
+      "title":"Продукт 141",
+      "subcategory":29,
+      "price":727,
+      "description":"Какое-то описание продукта 141",
+      "quantity":53,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":142,
+   "fields":{
+      "title":"Продукт 142",
+      "subcategory":29,
+      "price":849,
+      "description":"Какое-то описание продукта 142",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":143,
+   "fields":{
+      "title":"Продукт 143",
+      "subcategory":29,
+      "price":538,
+      "description":"Какое-то описание продукта 143",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":144,
+   "fields":{
+      "title":"Продукт 144",
+      "subcategory":29,
+      "price":559,
+      "description":"Какое-то описание продукта 144",
+      "quantity":61,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":145,
+   "fields":{
+      "title":"Продукт 145",
+      "subcategory":29,
+      "price":327,
+      "description":"Какое-то описание продукта 145",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":146,
+   "fields":{
+      "title":"Продукт 146",
+      "subcategory":30,
+      "price":413,
+      "description":"Какое-то описание продукта 146",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":147,
+   "fields":{
+      "title":"Продукт 147",
+      "subcategory":30,
+      "price":954,
+      "description":"Какое-то описание продукта 147",
+      "quantity":54,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":148,
+   "fields":{
+      "title":"Продукт 148",
+      "subcategory":30,
+      "price":326,
+      "description":"Какое-то описание продукта 148",
+      "quantity":24,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":149,
+   "fields":{
+      "title":"Продукт 149",
+      "subcategory":30,
+      "price":509,
+      "description":"Какое-то описание продукта 149",
+      "quantity":54,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":150,
+   "fields":{
+      "title":"Продукт 150",
+      "subcategory":30,
+      "price":147,
+      "description":"Какое-то описание продукта 150",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":151,
+   "fields":{
+      "title":"Продукт 151",
+      "subcategory":31,
+      "price":48,
+      "description":"Какое-то описание продукта 151",
+      "quantity":10,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":152,
+   "fields":{
+      "title":"Продукт 152",
+      "subcategory":31,
+      "price":16,
+      "description":"Какое-то описание продукта 152",
+      "quantity":75,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":153,
+   "fields":{
+      "title":"Продукт 153",
+      "subcategory":31,
+      "price":188,
+      "description":"Какое-то описание продукта 153",
+      "quantity":49,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":154,
+   "fields":{
+      "title":"Продукт 154",
+      "subcategory":31,
+      "price":169,
+      "description":"Какое-то описание продукта 154",
+      "quantity":46,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":155,
+   "fields":{
+      "title":"Продукт 155",
+      "subcategory":31,
+      "price":409,
+      "description":"Какое-то описание продукта 155",
+      "quantity":21,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":156,
+   "fields":{
+      "title":"Продукт 156",
+      "subcategory":32,
+      "price":53,
+      "description":"Какое-то описание продукта 156",
+      "quantity":80,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":157,
+   "fields":{
+      "title":"Продукт 157",
+      "subcategory":32,
+      "price":941,
+      "description":"Какое-то описание продукта 157",
+      "quantity":48,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":158,
+   "fields":{
+      "title":"Продукт 158",
+      "subcategory":32,
+      "price":712,
+      "description":"Какое-то описание продукта 158",
+      "quantity":65,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":159,
+   "fields":{
+      "title":"Продукт 159",
+      "subcategory":32,
+      "price":280,
+      "description":"Какое-то описание продукта 159",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":160,
+   "fields":{
+      "title":"Продукт 160",
+      "subcategory":32,
+      "price":638,
+      "description":"Какое-то описание продукта 160",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":161,
+   "fields":{
+      "title":"Продукт 161",
+      "subcategory":33,
+      "price":202,
+      "description":"Какое-то описание продукта 161",
+      "quantity":54,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":162,
+   "fields":{
+      "title":"Продукт 162",
+      "subcategory":33,
+      "price":375,
+      "description":"Какое-то описание продукта 162",
+      "quantity":62,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":163,
+   "fields":{
+      "title":"Продукт 163",
+      "subcategory":33,
+      "price":323,
+      "description":"Какое-то описание продукта 163",
+      "quantity":99,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":164,
+   "fields":{
+      "title":"Продукт 164",
+      "subcategory":33,
+      "price":92,
+      "description":"Какое-то описание продукта 164",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":165,
+   "fields":{
+      "title":"Продукт 165",
+      "subcategory":33,
+      "price":311,
+      "description":"Какое-то описание продукта 165",
+      "quantity":83,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":166,
+   "fields":{
+      "title":"Продукт 166",
+      "subcategory":34,
+      "price":985,
+      "description":"Какое-то описание продукта 166",
+      "quantity":54,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":167,
+   "fields":{
+      "title":"Продукт 167",
+      "subcategory":34,
+      "price":228,
+      "description":"Какое-то описание продукта 167",
+      "quantity":36,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":168,
+   "fields":{
+      "title":"Продукт 168",
+      "subcategory":34,
+      "price":541,
+      "description":"Какое-то описание продукта 168",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":169,
+   "fields":{
+      "title":"Продукт 169",
+      "subcategory":34,
+      "price":13,
+      "description":"Какое-то описание продукта 169",
+      "quantity":83,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":170,
+   "fields":{
+      "title":"Продукт 170",
+      "subcategory":34,
+      "price":590,
+      "description":"Какое-то описание продукта 170",
+      "quantity":98,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":171,
+   "fields":{
+      "title":"Продукт 171",
+      "subcategory":35,
+      "price":213,
+      "description":"Какое-то описание продукта 171",
+      "quantity":92,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":172,
+   "fields":{
+      "title":"Продукт 172",
+      "subcategory":35,
+      "price":36,
+      "description":"Какое-то описание продукта 172",
+      "quantity":39,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":173,
+   "fields":{
+      "title":"Продукт 173",
+      "subcategory":35,
+      "price":434,
+      "description":"Какое-то описание продукта 173",
+      "quantity":53,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":174,
+   "fields":{
+      "title":"Продукт 174",
+      "subcategory":35,
+      "price":171,
+      "description":"Какое-то описание продукта 174",
+      "quantity":53,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":175,
+   "fields":{
+      "title":"Продукт 175",
+      "subcategory":35,
+      "price":218,
+      "description":"Какое-то описание продукта 175",
+      "quantity":76,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":176,
+   "fields":{
+      "title":"Продукт 176",
+      "subcategory":36,
+      "price":614,
+      "description":"Какое-то описание продукта 176",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":177,
+   "fields":{
+      "title":"Продукт 177",
+      "subcategory":36,
+      "price":920,
+      "description":"Какое-то описание продукта 177",
+      "quantity":100,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":178,
+   "fields":{
+      "title":"Продукт 178",
+      "subcategory":36,
+      "price":563,
+      "description":"Какое-то описание продукта 178",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":179,
+   "fields":{
+      "title":"Продукт 179",
+      "subcategory":36,
+      "price":638,
+      "description":"Какое-то описание продукта 179",
+      "quantity":43,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":180,
+   "fields":{
+      "title":"Продукт 180",
+      "subcategory":36,
+      "price":338,
+      "description":"Какое-то описание продукта 180",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":181,
+   "fields":{
+      "title":"Продукт 181",
+      "subcategory":37,
+      "price":554,
+      "description":"Какое-то описание продукта 181",
+      "quantity":39,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":182,
+   "fields":{
+      "title":"Продукт 182",
+      "subcategory":37,
+      "price":27,
+      "description":"Какое-то описание продукта 182",
+      "quantity":75,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":183,
+   "fields":{
+      "title":"Продукт 183",
+      "subcategory":37,
+      "price":655,
+      "description":"Какое-то описание продукта 183",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":184,
+   "fields":{
+      "title":"Продукт 184",
+      "subcategory":37,
+      "price":130,
+      "description":"Какое-то описание продукта 184",
+      "quantity":35,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":185,
+   "fields":{
+      "title":"Продукт 185",
+      "subcategory":37,
+      "price":693,
+      "description":"Какое-то описание продукта 185",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":186,
+   "fields":{
+      "title":"Продукт 186",
+      "subcategory":38,
+      "price":367,
+      "description":"Какое-то описание продукта 186",
+      "quantity":30,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":187,
+   "fields":{
+      "title":"Продукт 187",
+      "subcategory":38,
+      "price":866,
+      "description":"Какое-то описание продукта 187",
+      "quantity":53,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":188,
+   "fields":{
+      "title":"Продукт 188",
+      "subcategory":38,
+      "price":769,
+      "description":"Какое-то описание продукта 188",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":189,
+   "fields":{
+      "title":"Продукт 189",
+      "subcategory":38,
+      "price":310,
+      "description":"Какое-то описание продукта 189",
+      "quantity":100,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":190,
+   "fields":{
+      "title":"Продукт 190",
+      "subcategory":38,
+      "price":448,
+      "description":"Какое-то описание продукта 190",
+      "quantity":61,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":191,
+   "fields":{
+      "title":"Продукт 191",
+      "subcategory":39,
+      "price":754,
+      "description":"Какое-то описание продукта 191",
+      "quantity":34,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":192,
+   "fields":{
+      "title":"Продукт 192",
+      "subcategory":39,
+      "price":563,
+      "description":"Какое-то описание продукта 192",
+      "quantity":91,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":193,
+   "fields":{
+      "title":"Продукт 193",
+      "subcategory":39,
+      "price":282,
+      "description":"Какое-то описание продукта 193",
+      "quantity":80,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":194,
+   "fields":{
+      "title":"Продукт 194",
+      "subcategory":39,
+      "price":448,
+      "description":"Какое-то описание продукта 194",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":195,
+   "fields":{
+      "title":"Продукт 195",
+      "subcategory":39,
+      "price":870,
+      "description":"Какое-то описание продукта 195",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":196,
+   "fields":{
+      "title":"Продукт 196",
+      "subcategory":40,
+      "price":51,
+      "description":"Какое-то описание продукта 196",
+      "quantity":70,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":197,
+   "fields":{
+      "title":"Продукт 197",
+      "subcategory":40,
+      "price":48,
+      "description":"Какое-то описание продукта 197",
+      "quantity":58,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":198,
+   "fields":{
+      "title":"Продукт 198",
+      "subcategory":40,
+      "price":850,
+      "description":"Какое-то описание продукта 198",
+      "quantity":20,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":199,
+   "fields":{
+      "title":"Продукт 199",
+      "subcategory":40,
+      "price":773,
+      "description":"Какое-то описание продукта 199",
+      "quantity":71,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":200,
+   "fields":{
+      "title":"Продукт 200",
+      "subcategory":40,
+      "price":461,
+      "description":"Какое-то описание продукта 200",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":201,
+   "fields":{
+      "title":"Продукт 201",
+      "subcategory":41,
+      "price":565,
+      "description":"Какое-то описание продукта 201",
+      "quantity":17,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":202,
+   "fields":{
+      "title":"Продукт 202",
+      "subcategory":41,
+      "price":946,
+      "description":"Какое-то описание продукта 202",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":203,
+   "fields":{
+      "title":"Продукт 203",
+      "subcategory":41,
+      "price":392,
+      "description":"Какое-то описание продукта 203",
+      "quantity":86,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":204,
+   "fields":{
+      "title":"Продукт 204",
+      "subcategory":41,
+      "price":996,
+      "description":"Какое-то описание продукта 204",
+      "quantity":47,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":205,
+   "fields":{
+      "title":"Продукт 205",
+      "subcategory":41,
+      "price":19,
+      "description":"Какое-то описание продукта 205",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":206,
+   "fields":{
+      "title":"Продукт 206",
+      "subcategory":42,
+      "price":49,
+      "description":"Какое-то описание продукта 206",
+      "quantity":16,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":207,
+   "fields":{
+      "title":"Продукт 207",
+      "subcategory":42,
+      "price":72,
+      "description":"Какое-то описание продукта 207",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":208,
+   "fields":{
+      "title":"Продукт 208",
+      "subcategory":42,
+      "price":74,
+      "description":"Какое-то описание продукта 208",
+      "quantity":97,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":209,
+   "fields":{
+      "title":"Продукт 209",
+      "subcategory":42,
+      "price":431,
+      "description":"Какое-то описание продукта 209",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":210,
+   "fields":{
+      "title":"Продукт 210",
+      "subcategory":42,
+      "price":56,
+      "description":"Какое-то описание продукта 210",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":211,
+   "fields":{
+      "title":"Продукт 211",
+      "subcategory":43,
+      "price":440,
+      "description":"Какое-то описание продукта 211",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":212,
+   "fields":{
+      "title":"Продукт 212",
+      "subcategory":43,
+      "price":161,
+      "description":"Какое-то описание продукта 212",
+      "quantity":96,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":213,
+   "fields":{
+      "title":"Продукт 213",
+      "subcategory":43,
+      "price":890,
+      "description":"Какое-то описание продукта 213",
+      "quantity":70,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":214,
+   "fields":{
+      "title":"Продукт 214",
+      "subcategory":43,
+      "price":26,
+      "description":"Какое-то описание продукта 214",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":215,
+   "fields":{
+      "title":"Продукт 215",
+      "subcategory":43,
+      "price":741,
+      "description":"Какое-то описание продукта 215",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":216,
+   "fields":{
+      "title":"Продукт 216",
+      "subcategory":44,
+      "price":580,
+      "description":"Какое-то описание продукта 216",
+      "quantity":79,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":217,
+   "fields":{
+      "title":"Продукт 217",
+      "subcategory":44,
+      "price":59,
+      "description":"Какое-то описание продукта 217",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":218,
+   "fields":{
+      "title":"Продукт 218",
+      "subcategory":44,
+      "price":530,
+      "description":"Какое-то описание продукта 218",
+      "quantity":54,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":219,
+   "fields":{
+      "title":"Продукт 219",
+      "subcategory":44,
+      "price":567,
+      "description":"Какое-то описание продукта 219",
+      "quantity":94,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":220,
+   "fields":{
+      "title":"Продукт 220",
+      "subcategory":44,
+      "price":359,
+      "description":"Какое-то описание продукта 220",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":221,
+   "fields":{
+      "title":"Продукт 221",
+      "subcategory":45,
+      "price":302,
+      "description":"Какое-то описание продукта 221",
+      "quantity":93,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":222,
+   "fields":{
+      "title":"Продукт 222",
+      "subcategory":45,
+      "price":382,
+      "description":"Какое-то описание продукта 222",
+      "quantity":70,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":223,
+   "fields":{
+      "title":"Продукт 223",
+      "subcategory":45,
+      "price":459,
+      "description":"Какое-то описание продукта 223",
+      "quantity":23,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":224,
+   "fields":{
+      "title":"Продукт 224",
+      "subcategory":45,
+      "price":864,
+      "description":"Какое-то описание продукта 224",
+      "quantity":92,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":225,
+   "fields":{
+      "title":"Продукт 225",
+      "subcategory":45,
+      "price":814,
+      "description":"Какое-то описание продукта 225",
+      "quantity":44,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":226,
+   "fields":{
+      "title":"Продукт 226",
+      "subcategory":46,
+      "price":511,
+      "description":"Какое-то описание продукта 226",
+      "quantity":90,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":227,
+   "fields":{
+      "title":"Продукт 227",
+      "subcategory":46,
+      "price":179,
+      "description":"Какое-то описание продукта 227",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":228,
+   "fields":{
+      "title":"Продукт 228",
+      "subcategory":46,
+      "price":931,
+      "description":"Какое-то описание продукта 228",
+      "quantity":30,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":229,
+   "fields":{
+      "title":"Продукт 229",
+      "subcategory":46,
+      "price":285,
+      "description":"Какое-то описание продукта 229",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":230,
+   "fields":{
+      "title":"Продукт 230",
+      "subcategory":46,
+      "price":83,
+      "description":"Какое-то описание продукта 230",
+      "quantity":63,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":231,
+   "fields":{
+      "title":"Продукт 231",
+      "subcategory":47,
+      "price":546,
+      "description":"Какое-то описание продукта 231",
+      "quantity":13,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":232,
+   "fields":{
+      "title":"Продукт 232",
+      "subcategory":47,
+      "price":930,
+      "description":"Какое-то описание продукта 232",
+      "quantity":87,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":233,
+   "fields":{
+      "title":"Продукт 233",
+      "subcategory":47,
+      "price":725,
+      "description":"Какое-то описание продукта 233",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":234,
+   "fields":{
+      "title":"Продукт 234",
+      "subcategory":47,
+      "price":147,
+      "description":"Какое-то описание продукта 234",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":235,
+   "fields":{
+      "title":"Продукт 235",
+      "subcategory":47,
+      "price":297,
+      "description":"Какое-то описание продукта 235",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":236,
+   "fields":{
+      "title":"Продукт 236",
+      "subcategory":48,
+      "price":605,
+      "description":"Какое-то описание продукта 236",
+      "quantity":74,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":237,
+   "fields":{
+      "title":"Продукт 237",
+      "subcategory":48,
+      "price":117,
+      "description":"Какое-то описание продукта 237",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":238,
+   "fields":{
+      "title":"Продукт 238",
+      "subcategory":48,
+      "price":331,
+      "description":"Какое-то описание продукта 238",
+      "quantity":80,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":239,
+   "fields":{
+      "title":"Продукт 239",
+      "subcategory":48,
+      "price":828,
+      "description":"Какое-то описание продукта 239",
+      "quantity":16,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":240,
+   "fields":{
+      "title":"Продукт 240",
+      "subcategory":48,
+      "price":29,
+      "description":"Какое-то описание продукта 240",
+      "quantity":74,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":241,
+   "fields":{
+      "title":"Продукт 241",
+      "subcategory":49,
+      "price":164,
+      "description":"Какое-то описание продукта 241",
+      "quantity":98,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":242,
+   "fields":{
+      "title":"Продукт 242",
+      "subcategory":49,
+      "price":394,
+      "description":"Какое-то описание продукта 242",
+      "quantity":86,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":243,
+   "fields":{
+      "title":"Продукт 243",
+      "subcategory":49,
+      "price":674,
+      "description":"Какое-то описание продукта 243",
+      "quantity":98,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":244,
+   "fields":{
+      "title":"Продукт 244",
+      "subcategory":49,
+      "price":298,
+      "description":"Какое-то описание продукта 244",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":245,
+   "fields":{
+      "title":"Продукт 245",
+      "subcategory":49,
+      "price":975,
+      "description":"Какое-то описание продукта 245",
+      "quantity":34,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":246,
+   "fields":{
+      "title":"Продукт 246",
+      "subcategory":50,
+      "price":389,
+      "description":"Какое-то описание продукта 246",
+      "quantity":62,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":247,
+   "fields":{
+      "title":"Продукт 247",
+      "subcategory":50,
+      "price":460,
+      "description":"Какое-то описание продукта 247",
+      "quantity":13,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":248,
+   "fields":{
+      "title":"Продукт 248",
+      "subcategory":50,
+      "price":192,
+      "description":"Какое-то описание продукта 248",
+      "quantity":94,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":249,
+   "fields":{
+      "title":"Продукт 249",
+      "subcategory":50,
+      "price":829,
+      "description":"Какое-то описание продукта 249",
+      "quantity":93,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":250,
+   "fields":{
+      "title":"Продукт 250",
+      "subcategory":50,
+      "price":255,
+      "description":"Какое-то описание продукта 250",
+      "quantity":13,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":251,
+   "fields":{
+      "title":"Продукт 251",
+      "subcategory":51,
+      "price":914,
+      "description":"Какое-то описание продукта 251",
+      "quantity":31,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":252,
+   "fields":{
+      "title":"Продукт 252",
+      "subcategory":51,
+      "price":986,
+      "description":"Какое-то описание продукта 252",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":253,
+   "fields":{
+      "title":"Продукт 253",
+      "subcategory":51,
+      "price":623,
+      "description":"Какое-то описание продукта 253",
+      "quantity":44,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":254,
+   "fields":{
+      "title":"Продукт 254",
+      "subcategory":51,
+      "price":98,
+      "description":"Какое-то описание продукта 254",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":255,
+   "fields":{
+      "title":"Продукт 255",
+      "subcategory":51,
+      "price":811,
+      "description":"Какое-то описание продукта 255",
+      "quantity":73,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":256,
+   "fields":{
+      "title":"Продукт 256",
+      "subcategory":52,
+      "price":676,
+      "description":"Какое-то описание продукта 256",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":257,
+   "fields":{
+      "title":"Продукт 257",
+      "subcategory":52,
+      "price":542,
+      "description":"Какое-то описание продукта 257",
+      "quantity":29,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":258,
+   "fields":{
+      "title":"Продукт 258",
+      "subcategory":52,
+      "price":923,
+      "description":"Какое-то описание продукта 258",
+      "quantity":38,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":259,
+   "fields":{
+      "title":"Продукт 259",
+      "subcategory":52,
+      "price":293,
+      "description":"Какое-то описание продукта 259",
+      "quantity":100,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":260,
+   "fields":{
+      "title":"Продукт 260",
+      "subcategory":52,
+      "price":890,
+      "description":"Какое-то описание продукта 260",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":261,
+   "fields":{
+      "title":"Продукт 261",
+      "subcategory":53,
+      "price":314,
+      "description":"Какое-то описание продукта 261",
+      "quantity":49,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":262,
+   "fields":{
+      "title":"Продукт 262",
+      "subcategory":53,
+      "price":962,
+      "description":"Какое-то описание продукта 262",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":263,
+   "fields":{
+      "title":"Продукт 263",
+      "subcategory":53,
+      "price":217,
+      "description":"Какое-то описание продукта 263",
+      "quantity":83,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":264,
+   "fields":{
+      "title":"Продукт 264",
+      "subcategory":53,
+      "price":854,
+      "description":"Какое-то описание продукта 264",
+      "quantity":22,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":265,
+   "fields":{
+      "title":"Продукт 265",
+      "subcategory":53,
+      "price":208,
+      "description":"Какое-то описание продукта 265",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":266,
+   "fields":{
+      "title":"Продукт 266",
+      "subcategory":54,
+      "price":760,
+      "description":"Какое-то описание продукта 266",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":267,
+   "fields":{
+      "title":"Продукт 267",
+      "subcategory":54,
+      "price":252,
+      "description":"Какое-то описание продукта 267",
+      "quantity":45,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":268,
+   "fields":{
+      "title":"Продукт 268",
+      "subcategory":54,
+      "price":412,
+      "description":"Какое-то описание продукта 268",
+      "quantity":36,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":269,
+   "fields":{
+      "title":"Продукт 269",
+      "subcategory":54,
+      "price":215,
+      "description":"Какое-то описание продукта 269",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":270,
+   "fields":{
+      "title":"Продукт 270",
+      "subcategory":54,
+      "price":886,
+      "description":"Какое-то описание продукта 270",
+      "quantity":25,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":271,
+   "fields":{
+      "title":"Продукт 271",
+      "subcategory":55,
+      "price":324,
+      "description":"Какое-то описание продукта 271",
+      "quantity":42,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":272,
+   "fields":{
+      "title":"Продукт 272",
+      "subcategory":55,
+      "price":147,
+      "description":"Какое-то описание продукта 272",
+      "quantity":10,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":273,
+   "fields":{
+      "title":"Продукт 273",
+      "subcategory":55,
+      "price":377,
+      "description":"Какое-то описание продукта 273",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":274,
+   "fields":{
+      "title":"Продукт 274",
+      "subcategory":55,
+      "price":991,
+      "description":"Какое-то описание продукта 274",
+      "quantity":59,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":275,
+   "fields":{
+      "title":"Продукт 275",
+      "subcategory":55,
+      "price":355,
+      "description":"Какое-то описание продукта 275",
+      "quantity":72,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":276,
+   "fields":{
+      "title":"Продукт 276",
+      "subcategory":56,
+      "price":288,
+      "description":"Какое-то описание продукта 276",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":277,
+   "fields":{
+      "title":"Продукт 277",
+      "subcategory":56,
+      "price":803,
+      "description":"Какое-то описание продукта 277",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":278,
+   "fields":{
+      "title":"Продукт 278",
+      "subcategory":56,
+      "price":538,
+      "description":"Какое-то описание продукта 278",
+      "quantity":34,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":279,
+   "fields":{
+      "title":"Продукт 279",
+      "subcategory":56,
+      "price":409,
+      "description":"Какое-то описание продукта 279",
+      "quantity":20,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":280,
+   "fields":{
+      "title":"Продукт 280",
+      "subcategory":56,
+      "price":363,
+      "description":"Какое-то описание продукта 280",
+      "quantity":65,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":281,
+   "fields":{
+      "title":"Продукт 281",
+      "subcategory":57,
+      "price":768,
+      "description":"Какое-то описание продукта 281",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":282,
+   "fields":{
+      "title":"Продукт 282",
+      "subcategory":57,
+      "price":817,
+      "description":"Какое-то описание продукта 282",
+      "quantity":35,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":283,
+   "fields":{
+      "title":"Продукт 283",
+      "subcategory":57,
+      "price":386,
+      "description":"Какое-то описание продукта 283",
+      "quantity":62,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":284,
+   "fields":{
+      "title":"Продукт 284",
+      "subcategory":57,
+      "price":295,
+      "description":"Какое-то описание продукта 284",
+      "quantity":29,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":285,
+   "fields":{
+      "title":"Продукт 285",
+      "subcategory":57,
+      "price":726,
+      "description":"Какое-то описание продукта 285",
+      "quantity":55,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":286,
+   "fields":{
+      "title":"Продукт 286",
+      "subcategory":58,
+      "price":206,
+      "description":"Какое-то описание продукта 286",
+      "quantity":30,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":287,
+   "fields":{
+      "title":"Продукт 287",
+      "subcategory":58,
+      "price":530,
+      "description":"Какое-то описание продукта 287",
+      "quantity":66,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":288,
+   "fields":{
+      "title":"Продукт 288",
+      "subcategory":58,
+      "price":205,
+      "description":"Какое-то описание продукта 288",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":289,
+   "fields":{
+      "title":"Продукт 289",
+      "subcategory":58,
+      "price":944,
+      "description":"Какое-то описание продукта 289",
+      "quantity":80,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":290,
+   "fields":{
+      "title":"Продукт 290",
+      "subcategory":58,
+      "price":627,
+      "description":"Какое-то описание продукта 290",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":291,
+   "fields":{
+      "title":"Продукт 291",
+      "subcategory":59,
+      "price":346,
+      "description":"Какое-то описание продукта 291",
+      "quantity":70,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":292,
+   "fields":{
+      "title":"Продукт 292",
+      "subcategory":59,
+      "price":634,
+      "description":"Какое-то описание продукта 292",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":293,
+   "fields":{
+      "title":"Продукт 293",
+      "subcategory":59,
+      "price":935,
+      "description":"Какое-то описание продукта 293",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":294,
+   "fields":{
+      "title":"Продукт 294",
+      "subcategory":59,
+      "price":778,
+      "description":"Какое-то описание продукта 294",
+      "quantity":46,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":295,
+   "fields":{
+      "title":"Продукт 295",
+      "subcategory":59,
+      "price":564,
+      "description":"Какое-то описание продукта 295",
+      "quantity":46,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":296,
+   "fields":{
+      "title":"Продукт 296",
+      "subcategory":60,
+      "price":428,
+      "description":"Какое-то описание продукта 296",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":297,
+   "fields":{
+      "title":"Продукт 297",
+      "subcategory":60,
+      "price":258,
+      "description":"Какое-то описание продукта 297",
+      "quantity":99,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":298,
+   "fields":{
+      "title":"Продукт 298",
+      "subcategory":60,
+      "price":342,
+      "description":"Какое-то описание продукта 298",
+      "quantity":30,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":299,
+   "fields":{
+      "title":"Продукт 299",
+      "subcategory":60,
+      "price":249,
+      "description":"Какое-то описание продукта 299",
+      "quantity":47,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":300,
+   "fields":{
+      "title":"Продукт 300",
+      "subcategory":60,
+      "price":601,
+      "description":"Какое-то описание продукта 300",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":301,
+   "fields":{
+      "title":"Продукт 301",
+      "subcategory":61,
+      "price":532,
+      "description":"Какое-то описание продукта 301",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":302,
+   "fields":{
+      "title":"Продукт 302",
+      "subcategory":61,
+      "price":86,
+      "description":"Какое-то описание продукта 302",
+      "quantity":45,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":303,
+   "fields":{
+      "title":"Продукт 303",
+      "subcategory":61,
+      "price":491,
+      "description":"Какое-то описание продукта 303",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":304,
+   "fields":{
+      "title":"Продукт 304",
+      "subcategory":61,
+      "price":887,
+      "description":"Какое-то описание продукта 304",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":305,
+   "fields":{
+      "title":"Продукт 305",
+      "subcategory":61,
+      "price":235,
+      "description":"Какое-то описание продукта 305",
+      "quantity":49,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":306,
+   "fields":{
+      "title":"Продукт 306",
+      "subcategory":62,
+      "price":225,
+      "description":"Какое-то описание продукта 306",
+      "quantity":43,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":307,
+   "fields":{
+      "title":"Продукт 307",
+      "subcategory":62,
+      "price":426,
+      "description":"Какое-то описание продукта 307",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":308,
+   "fields":{
+      "title":"Продукт 308",
+      "subcategory":62,
+      "price":995,
+      "description":"Какое-то описание продукта 308",
+      "quantity":61,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":309,
+   "fields":{
+      "title":"Продукт 309",
+      "subcategory":62,
+      "price":183,
+      "description":"Какое-то описание продукта 309",
+      "quantity":96,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":310,
+   "fields":{
+      "title":"Продукт 310",
+      "subcategory":62,
+      "price":44,
+      "description":"Какое-то описание продукта 310",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":311,
+   "fields":{
+      "title":"Продукт 311",
+      "subcategory":63,
+      "price":328,
+      "description":"Какое-то описание продукта 311",
+      "quantity":59,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":312,
+   "fields":{
+      "title":"Продукт 312",
+      "subcategory":63,
+      "price":243,
+      "description":"Какое-то описание продукта 312",
+      "quantity":48,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":313,
+   "fields":{
+      "title":"Продукт 313",
+      "subcategory":63,
+      "price":906,
+      "description":"Какое-то описание продукта 313",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":314,
+   "fields":{
+      "title":"Продукт 314",
+      "subcategory":63,
+      "price":610,
+      "description":"Какое-то описание продукта 314",
+      "quantity":77,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":315,
+   "fields":{
+      "title":"Продукт 315",
+      "subcategory":63,
+      "price":509,
+      "description":"Какое-то описание продукта 315",
+      "quantity":62,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":316,
+   "fields":{
+      "title":"Продукт 316",
+      "subcategory":64,
+      "price":316,
+      "description":"Какое-то описание продукта 316",
+      "quantity":54,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":317,
+   "fields":{
+      "title":"Продукт 317",
+      "subcategory":64,
+      "price":183,
+      "description":"Какое-то описание продукта 317",
+      "quantity":10,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":318,
+   "fields":{
+      "title":"Продукт 318",
+      "subcategory":64,
+      "price":122,
+      "description":"Какое-то описание продукта 318",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":319,
+   "fields":{
+      "title":"Продукт 319",
+      "subcategory":64,
+      "price":577,
+      "description":"Какое-то описание продукта 319",
+      "quantity":86,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":320,
+   "fields":{
+      "title":"Продукт 320",
+      "subcategory":64,
+      "price":974,
+      "description":"Какое-то описание продукта 320",
+      "quantity":20,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":321,
+   "fields":{
+      "title":"Продукт 321",
+      "subcategory":65,
+      "price":920,
+      "description":"Какое-то описание продукта 321",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":322,
+   "fields":{
+      "title":"Продукт 322",
+      "subcategory":65,
+      "price":318,
+      "description":"Какое-то описание продукта 322",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":323,
+   "fields":{
+      "title":"Продукт 323",
+      "subcategory":65,
+      "price":968,
+      "description":"Какое-то описание продукта 323",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":324,
+   "fields":{
+      "title":"Продукт 324",
+      "subcategory":65,
+      "price":92,
+      "description":"Какое-то описание продукта 324",
+      "quantity":55,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":325,
+   "fields":{
+      "title":"Продукт 325",
+      "subcategory":65,
+      "price":796,
+      "description":"Какое-то описание продукта 325",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":326,
+   "fields":{
+      "title":"Продукт 326",
+      "subcategory":66,
+      "price":503,
+      "description":"Какое-то описание продукта 326",
+      "quantity":69,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":327,
+   "fields":{
+      "title":"Продукт 327",
+      "subcategory":66,
+      "price":550,
+      "description":"Какое-то описание продукта 327",
+      "quantity":56,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":328,
+   "fields":{
+      "title":"Продукт 328",
+      "subcategory":66,
+      "price":703,
+      "description":"Какое-то описание продукта 328",
+      "quantity":61,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":329,
+   "fields":{
+      "title":"Продукт 329",
+      "subcategory":66,
+      "price":315,
+      "description":"Какое-то описание продукта 329",
+      "quantity":43,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":330,
+   "fields":{
+      "title":"Продукт 330",
+      "subcategory":66,
+      "price":401,
+      "description":"Какое-то описание продукта 330",
+      "quantity":75,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":331,
+   "fields":{
+      "title":"Продукт 331",
+      "subcategory":67,
+      "price":498,
+      "description":"Какое-то описание продукта 331",
+      "quantity":49,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":332,
+   "fields":{
+      "title":"Продукт 332",
+      "subcategory":67,
+      "price":994,
+      "description":"Какое-то описание продукта 332",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":333,
+   "fields":{
+      "title":"Продукт 333",
+      "subcategory":67,
+      "price":243,
+      "description":"Какое-то описание продукта 333",
+      "quantity":34,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":334,
+   "fields":{
+      "title":"Продукт 334",
+      "subcategory":67,
+      "price":921,
+      "description":"Какое-то описание продукта 334",
+      "quantity":72,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":335,
+   "fields":{
+      "title":"Продукт 335",
+      "subcategory":67,
+      "price":237,
+      "description":"Какое-то описание продукта 335",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":336,
+   "fields":{
+      "title":"Продукт 336",
+      "subcategory":68,
+      "price":842,
+      "description":"Какое-то описание продукта 336",
+      "quantity":38,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":337,
+   "fields":{
+      "title":"Продукт 337",
+      "subcategory":68,
+      "price":388,
+      "description":"Какое-то описание продукта 337",
+      "quantity":85,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":338,
+   "fields":{
+      "title":"Продукт 338",
+      "subcategory":68,
+      "price":897,
+      "description":"Какое-то описание продукта 338",
+      "quantity":20,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":339,
+   "fields":{
+      "title":"Продукт 339",
+      "subcategory":68,
+      "price":352,
+      "description":"Какое-то описание продукта 339",
+      "quantity":31,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":340,
+   "fields":{
+      "title":"Продукт 340",
+      "subcategory":68,
+      "price":887,
+      "description":"Какое-то описание продукта 340",
+      "quantity":91,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":341,
+   "fields":{
+      "title":"Продукт 341",
+      "subcategory":69,
+      "price":315,
+      "description":"Какое-то описание продукта 341",
+      "quantity":24,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":342,
+   "fields":{
+      "title":"Продукт 342",
+      "subcategory":69,
+      "price":274,
+      "description":"Какое-то описание продукта 342",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":343,
+   "fields":{
+      "title":"Продукт 343",
+      "subcategory":69,
+      "price":758,
+      "description":"Какое-то описание продукта 343",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":344,
+   "fields":{
+      "title":"Продукт 344",
+      "subcategory":69,
+      "price":434,
+      "description":"Какое-то описание продукта 344",
+      "quantity":17,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":345,
+   "fields":{
+      "title":"Продукт 345",
+      "subcategory":69,
+      "price":709,
+      "description":"Какое-то описание продукта 345",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":346,
+   "fields":{
+      "title":"Продукт 346",
+      "subcategory":70,
+      "price":530,
+      "description":"Какое-то описание продукта 346",
+      "quantity":29,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":347,
+   "fields":{
+      "title":"Продукт 347",
+      "subcategory":70,
+      "price":365,
+      "description":"Какое-то описание продукта 347",
+      "quantity":44,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":348,
+   "fields":{
+      "title":"Продукт 348",
+      "subcategory":70,
+      "price":413,
+      "description":"Какое-то описание продукта 348",
+      "quantity":91,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":349,
+   "fields":{
+      "title":"Продукт 349",
+      "subcategory":70,
+      "price":533,
+      "description":"Какое-то описание продукта 349",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":350,
+   "fields":{
+      "title":"Продукт 350",
+      "subcategory":70,
+      "price":770,
+      "description":"Какое-то описание продукта 350",
+      "quantity":90,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":351,
+   "fields":{
+      "title":"Продукт 351",
+      "subcategory":71,
+      "price":670,
+      "description":"Какое-то описание продукта 351",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":352,
+   "fields":{
+      "title":"Продукт 352",
+      "subcategory":71,
+      "price":488,
+      "description":"Какое-то описание продукта 352",
+      "quantity":63,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":353,
+   "fields":{
+      "title":"Продукт 353",
+      "subcategory":71,
+      "price":589,
+      "description":"Какое-то описание продукта 353",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":354,
+   "fields":{
+      "title":"Продукт 354",
+      "subcategory":71,
+      "price":951,
+      "description":"Какое-то описание продукта 354",
+      "quantity":55,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":355,
+   "fields":{
+      "title":"Продукт 355",
+      "subcategory":71,
+      "price":940,
+      "description":"Какое-то описание продукта 355",
+      "quantity":44,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":356,
+   "fields":{
+      "title":"Продукт 356",
+      "subcategory":72,
+      "price":977,
+      "description":"Какое-то описание продукта 356",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":357,
+   "fields":{
+      "title":"Продукт 357",
+      "subcategory":72,
+      "price":368,
+      "description":"Какое-то описание продукта 357",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":358,
+   "fields":{
+      "title":"Продукт 358",
+      "subcategory":72,
+      "price":932,
+      "description":"Какое-то описание продукта 358",
+      "quantity":89,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":359,
+   "fields":{
+      "title":"Продукт 359",
+      "subcategory":72,
+      "price":834,
+      "description":"Какое-то описание продукта 359",
+      "quantity":56,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":360,
+   "fields":{
+      "title":"Продукт 360",
+      "subcategory":72,
+      "price":428,
+      "description":"Какое-то описание продукта 360",
+      "quantity":46,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":361,
+   "fields":{
+      "title":"Продукт 361",
+      "subcategory":73,
+      "price":293,
+      "description":"Какое-то описание продукта 361",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":362,
+   "fields":{
+      "title":"Продукт 362",
+      "subcategory":73,
+      "price":245,
+      "description":"Какое-то описание продукта 362",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":363,
+   "fields":{
+      "title":"Продукт 363",
+      "subcategory":73,
+      "price":627,
+      "description":"Какое-то описание продукта 363",
+      "quantity":38,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":364,
+   "fields":{
+      "title":"Продукт 364",
+      "subcategory":73,
+      "price":467,
+      "description":"Какое-то описание продукта 364",
+      "quantity":74,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":365,
+   "fields":{
+      "title":"Продукт 365",
+      "subcategory":73,
+      "price":879,
+      "description":"Какое-то описание продукта 365",
+      "quantity":93,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":366,
+   "fields":{
+      "title":"Продукт 366",
+      "subcategory":74,
+      "price":336,
+      "description":"Какое-то описание продукта 366",
+      "quantity":96,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":367,
+   "fields":{
+      "title":"Продукт 367",
+      "subcategory":74,
+      "price":846,
+      "description":"Какое-то описание продукта 367",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":368,
+   "fields":{
+      "title":"Продукт 368",
+      "subcategory":74,
+      "price":634,
+      "description":"Какое-то описание продукта 368",
+      "quantity":59,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":369,
+   "fields":{
+      "title":"Продукт 369",
+      "subcategory":74,
+      "price":532,
+      "description":"Какое-то описание продукта 369",
+      "quantity":89,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":370,
+   "fields":{
+      "title":"Продукт 370",
+      "subcategory":74,
+      "price":167,
+      "description":"Какое-то описание продукта 370",
+      "quantity":59,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":371,
+   "fields":{
+      "title":"Продукт 371",
+      "subcategory":75,
+      "price":591,
+      "description":"Какое-то описание продукта 371",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":372,
+   "fields":{
+      "title":"Продукт 372",
+      "subcategory":75,
+      "price":782,
+      "description":"Какое-то описание продукта 372",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":373,
+   "fields":{
+      "title":"Продукт 373",
+      "subcategory":75,
+      "price":445,
+      "description":"Какое-то описание продукта 373",
+      "quantity":38,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":374,
+   "fields":{
+      "title":"Продукт 374",
+      "subcategory":75,
+      "price":28,
+      "description":"Какое-то описание продукта 374",
+      "quantity":71,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":375,
+   "fields":{
+      "title":"Продукт 375",
+      "subcategory":75,
+      "price":856,
+      "description":"Какое-то описание продукта 375",
+      "quantity":86,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":376,
+   "fields":{
+      "title":"Продукт 376",
+      "subcategory":76,
+      "price":864,
+      "description":"Какое-то описание продукта 376",
+      "quantity":60,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":377,
+   "fields":{
+      "title":"Продукт 377",
+      "subcategory":76,
+      "price":633,
+      "description":"Какое-то описание продукта 377",
+      "quantity":84,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":378,
+   "fields":{
+      "title":"Продукт 378",
+      "subcategory":76,
+      "price":735,
+      "description":"Какое-то описание продукта 378",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":379,
+   "fields":{
+      "title":"Продукт 379",
+      "subcategory":76,
+      "price":763,
+      "description":"Какое-то описание продукта 379",
+      "quantity":20,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":380,
+   "fields":{
+      "title":"Продукт 380",
+      "subcategory":76,
+      "price":783,
+      "description":"Какое-то описание продукта 380",
+      "quantity":97,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":381,
+   "fields":{
+      "title":"Продукт 381",
+      "subcategory":77,
+      "price":807,
+      "description":"Какое-то описание продукта 381",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":382,
+   "fields":{
+      "title":"Продукт 382",
+      "subcategory":77,
+      "price":108,
+      "description":"Какое-то описание продукта 382",
+      "quantity":24,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":383,
+   "fields":{
+      "title":"Продукт 383",
+      "subcategory":77,
+      "price":496,
+      "description":"Какое-то описание продукта 383",
+      "quantity":98,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":384,
+   "fields":{
+      "title":"Продукт 384",
+      "subcategory":77,
+      "price":709,
+      "description":"Какое-то описание продукта 384",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":385,
+   "fields":{
+      "title":"Продукт 385",
+      "subcategory":77,
+      "price":349,
+      "description":"Какое-то описание продукта 385",
+      "quantity":32,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":386,
+   "fields":{
+      "title":"Продукт 386",
+      "subcategory":78,
+      "price":379,
+      "description":"Какое-то описание продукта 386",
+      "quantity":39,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":387,
+   "fields":{
+      "title":"Продукт 387",
+      "subcategory":78,
+      "price":511,
+      "description":"Какое-то описание продукта 387",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":388,
+   "fields":{
+      "title":"Продукт 388",
+      "subcategory":78,
+      "price":715,
+      "description":"Какое-то описание продукта 388",
+      "quantity":45,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":389,
+   "fields":{
+      "title":"Продукт 389",
+      "subcategory":78,
+      "price":66,
+      "description":"Какое-то описание продукта 389",
+      "quantity":98,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":390,
+   "fields":{
+      "title":"Продукт 390",
+      "subcategory":78,
+      "price":159,
+      "description":"Какое-то описание продукта 390",
+      "quantity":53,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":391,
+   "fields":{
+      "title":"Продукт 391",
+      "subcategory":79,
+      "price":387,
+      "description":"Какое-то описание продукта 391",
+      "quantity":87,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":392,
+   "fields":{
+      "title":"Продукт 392",
+      "subcategory":79,
+      "price":509,
+      "description":"Какое-то описание продукта 392",
+      "quantity":15,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":393,
+   "fields":{
+      "title":"Продукт 393",
+      "subcategory":79,
+      "price":469,
+      "description":"Какое-то описание продукта 393",
+      "quantity":37,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":394,
+   "fields":{
+      "title":"Продукт 394",
+      "subcategory":79,
+      "price":426,
+      "description":"Какое-то описание продукта 394",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":395,
+   "fields":{
+      "title":"Продукт 395",
+      "subcategory":79,
+      "price":747,
+      "description":"Какое-то описание продукта 395",
+      "quantity":13,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":396,
+   "fields":{
+      "title":"Продукт 396",
+      "subcategory":80,
+      "price":142,
+      "description":"Какое-то описание продукта 396",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":397,
+   "fields":{
+      "title":"Продукт 397",
+      "subcategory":80,
+      "price":401,
+      "description":"Какое-то описание продукта 397",
+      "quantity":91,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":398,
+   "fields":{
+      "title":"Продукт 398",
+      "subcategory":80,
+      "price":746,
+      "description":"Какое-то описание продукта 398",
+      "quantity":17,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":399,
+   "fields":{
+      "title":"Продукт 399",
+      "subcategory":80,
+      "price":155,
+      "description":"Какое-то описание продукта 399",
+      "quantity":73,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":400,
+   "fields":{
+      "title":"Продукт 400",
+      "subcategory":80,
+      "price":687,
+      "description":"Какое-то описание продукта 400",
+      "quantity":19,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":401,
+   "fields":{
+      "title":"Продукт 401",
+      "subcategory":81,
+      "price":404,
+      "description":"Какое-то описание продукта 401",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":402,
+   "fields":{
+      "title":"Продукт 402",
+      "subcategory":81,
+      "price":378,
+      "description":"Какое-то описание продукта 402",
+      "quantity":19,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":403,
+   "fields":{
+      "title":"Продукт 403",
+      "subcategory":81,
+      "price":794,
+      "description":"Какое-то описание продукта 403",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":404,
+   "fields":{
+      "title":"Продукт 404",
+      "subcategory":81,
+      "price":554,
+      "description":"Какое-то описание продукта 404",
+      "quantity":35,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":405,
+   "fields":{
+      "title":"Продукт 405",
+      "subcategory":81,
+      "price":66,
+      "description":"Какое-то описание продукта 405",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":406,
+   "fields":{
+      "title":"Продукт 406",
+      "subcategory":82,
+      "price":968,
+      "description":"Какое-то описание продукта 406",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":407,
+   "fields":{
+      "title":"Продукт 407",
+      "subcategory":82,
+      "price":496,
+      "description":"Какое-то описание продукта 407",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":408,
+   "fields":{
+      "title":"Продукт 408",
+      "subcategory":82,
+      "price":198,
+      "description":"Какое-то описание продукта 408",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":409,
+   "fields":{
+      "title":"Продукт 409",
+      "subcategory":82,
+      "price":890,
+      "description":"Какое-то описание продукта 409",
+      "quantity":77,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":410,
+   "fields":{
+      "title":"Продукт 410",
+      "subcategory":82,
+      "price":163,
+      "description":"Какое-то описание продукта 410",
+      "quantity":82,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":411,
+   "fields":{
+      "title":"Продукт 411",
+      "subcategory":83,
+      "price":656,
+      "description":"Какое-то описание продукта 411",
+      "quantity":42,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":412,
+   "fields":{
+      "title":"Продукт 412",
+      "subcategory":83,
+      "price":591,
+      "description":"Какое-то описание продукта 412",
+      "quantity":10,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":413,
+   "fields":{
+      "title":"Продукт 413",
+      "subcategory":83,
+      "price":317,
+      "description":"Какое-то описание продукта 413",
+      "quantity":36,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":414,
+   "fields":{
+      "title":"Продукт 414",
+      "subcategory":83,
+      "price":957,
+      "description":"Какое-то описание продукта 414",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":415,
+   "fields":{
+      "title":"Продукт 415",
+      "subcategory":83,
+      "price":649,
+      "description":"Какое-то описание продукта 415",
+      "quantity":48,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":416,
+   "fields":{
+      "title":"Продукт 416",
+      "subcategory":84,
+      "price":529,
+      "description":"Какое-то описание продукта 416",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":417,
+   "fields":{
+      "title":"Продукт 417",
+      "subcategory":84,
+      "price":103,
+      "description":"Какое-то описание продукта 417",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":418,
+   "fields":{
+      "title":"Продукт 418",
+      "subcategory":84,
+      "price":931,
+      "description":"Какое-то описание продукта 418",
+      "quantity":28,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":419,
+   "fields":{
+      "title":"Продукт 419",
+      "subcategory":84,
+      "price":322,
+      "description":"Какое-то описание продукта 419",
+      "quantity":43,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":420,
+   "fields":{
+      "title":"Продукт 420",
+      "subcategory":84,
+      "price":941,
+      "description":"Какое-то описание продукта 420",
+      "quantity":39,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":421,
+   "fields":{
+      "title":"Продукт 421",
+      "subcategory":85,
+      "price":456,
+      "description":"Какое-то описание продукта 421",
+      "quantity":24,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":422,
+   "fields":{
+      "title":"Продукт 422",
+      "subcategory":85,
+      "price":993,
+      "description":"Какое-то описание продукта 422",
+      "quantity":83,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":423,
+   "fields":{
+      "title":"Продукт 423",
+      "subcategory":85,
+      "price":263,
+      "description":"Какое-то описание продукта 423",
+      "quantity":79,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":424,
+   "fields":{
+      "title":"Продукт 424",
+      "subcategory":85,
+      "price":291,
+      "description":"Какое-то описание продукта 424",
+      "quantity":34,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":425,
+   "fields":{
+      "title":"Продукт 425",
+      "subcategory":85,
+      "price":269,
+      "description":"Какое-то описание продукта 425",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":426,
+   "fields":{
+      "title":"Продукт 426",
+      "subcategory":86,
+      "price":47,
+      "description":"Какое-то описание продукта 426",
+      "quantity":12,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":427,
+   "fields":{
+      "title":"Продукт 427",
+      "subcategory":86,
+      "price":627,
+      "description":"Какое-то описание продукта 427",
+      "quantity":79,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":428,
+   "fields":{
+      "title":"Продукт 428",
+      "subcategory":86,
+      "price":692,
+      "description":"Какое-то описание продукта 428",
+      "quantity":20,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":429,
+   "fields":{
+      "title":"Продукт 429",
+      "subcategory":86,
+      "price":760,
+      "description":"Какое-то описание продукта 429",
+      "quantity":24,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":430,
+   "fields":{
+      "title":"Продукт 430",
+      "subcategory":86,
+      "price":168,
+      "description":"Какое-то описание продукта 430",
+      "quantity":55,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":431,
+   "fields":{
+      "title":"Продукт 431",
+      "subcategory":87,
+      "price":501,
+      "description":"Какое-то описание продукта 431",
+      "quantity":44,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":432,
+   "fields":{
+      "title":"Продукт 432",
+      "subcategory":87,
+      "price":278,
+      "description":"Какое-то описание продукта 432",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":433,
+   "fields":{
+      "title":"Продукт 433",
+      "subcategory":87,
+      "price":661,
+      "description":"Какое-то описание продукта 433",
+      "quantity":23,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":434,
+   "fields":{
+      "title":"Продукт 434",
+      "subcategory":87,
+      "price":526,
+      "description":"Какое-то описание продукта 434",
+      "quantity":89,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":435,
+   "fields":{
+      "title":"Продукт 435",
+      "subcategory":87,
+      "price":589,
+      "description":"Какое-то описание продукта 435",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":436,
+   "fields":{
+      "title":"Продукт 436",
+      "subcategory":88,
+      "price":497,
+      "description":"Какое-то описание продукта 436",
+      "quantity":96,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":437,
+   "fields":{
+      "title":"Продукт 437",
+      "subcategory":88,
+      "price":787,
+      "description":"Какое-то описание продукта 437",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":438,
+   "fields":{
+      "title":"Продукт 438",
+      "subcategory":88,
+      "price":813,
+      "description":"Какое-то описание продукта 438",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":439,
+   "fields":{
+      "title":"Продукт 439",
+      "subcategory":88,
+      "price":640,
+      "description":"Какое-то описание продукта 439",
+      "quantity":67,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":440,
+   "fields":{
+      "title":"Продукт 440",
+      "subcategory":88,
+      "price":470,
+      "description":"Какое-то описание продукта 440",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":441,
+   "fields":{
+      "title":"Продукт 441",
+      "subcategory":89,
+      "price":837,
+      "description":"Какое-то описание продукта 441",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":442,
+   "fields":{
+      "title":"Продукт 442",
+      "subcategory":89,
+      "price":204,
+      "description":"Какое-то описание продукта 442",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":443,
+   "fields":{
+      "title":"Продукт 443",
+      "subcategory":89,
+      "price":84,
+      "description":"Какое-то описание продукта 443",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":444,
+   "fields":{
+      "title":"Продукт 444",
+      "subcategory":89,
+      "price":49,
+      "description":"Какое-то описание продукта 444",
+      "quantity":58,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":445,
+   "fields":{
+      "title":"Продукт 445",
+      "subcategory":89,
+      "price":301,
+      "description":"Какое-то описание продукта 445",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":446,
+   "fields":{
+      "title":"Продукт 446",
+      "subcategory":90,
+      "price":122,
+      "description":"Какое-то описание продукта 446",
+      "quantity":43,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":447,
+   "fields":{
+      "title":"Продукт 447",
+      "subcategory":90,
+      "price":618,
+      "description":"Какое-то описание продукта 447",
+      "quantity":14,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":448,
+   "fields":{
+      "title":"Продукт 448",
+      "subcategory":90,
+      "price":534,
+      "description":"Какое-то описание продукта 448",
+      "quantity":77,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":449,
+   "fields":{
+      "title":"Продукт 449",
+      "subcategory":90,
+      "price":62,
+      "description":"Какое-то описание продукта 449",
+      "quantity":55,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":450,
+   "fields":{
+      "title":"Продукт 450",
+      "subcategory":90,
+      "price":137,
+      "description":"Какое-то описание продукта 450",
+      "quantity":68,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":451,
+   "fields":{
+      "title":"Продукт 451",
+      "subcategory":91,
+      "price":862,
+      "description":"Какое-то описание продукта 451",
+      "quantity":19,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":452,
+   "fields":{
+      "title":"Продукт 452",
+      "subcategory":91,
+      "price":131,
+      "description":"Какое-то описание продукта 452",
+      "quantity":84,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":453,
+   "fields":{
+      "title":"Продукт 453",
+      "subcategory":91,
+      "price":433,
+      "description":"Какое-то описание продукта 453",
+      "quantity":79,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":454,
+   "fields":{
+      "title":"Продукт 454",
+      "subcategory":91,
+      "price":207,
+      "description":"Какое-то описание продукта 454",
+      "quantity":41,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":455,
+   "fields":{
+      "title":"Продукт 455",
+      "subcategory":91,
+      "price":829,
+      "description":"Какое-то описание продукта 455",
+      "quantity":36,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":456,
+   "fields":{
+      "title":"Продукт 456",
+      "subcategory":92,
+      "price":240,
+      "description":"Какое-то описание продукта 456",
+      "quantity":31,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":457,
+   "fields":{
+      "title":"Продукт 457",
+      "subcategory":92,
+      "price":854,
+      "description":"Какое-то описание продукта 457",
+      "quantity":11,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":458,
+   "fields":{
+      "title":"Продукт 458",
+      "subcategory":92,
+      "price":935,
+      "description":"Какое-то описание продукта 458",
+      "quantity":87,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":459,
+   "fields":{
+      "title":"Продукт 459",
+      "subcategory":92,
+      "price":74,
+      "description":"Какое-то описание продукта 459",
+      "quantity":27,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":460,
+   "fields":{
+      "title":"Продукт 460",
+      "subcategory":92,
+      "price":651,
+      "description":"Какое-то описание продукта 460",
+      "quantity":94,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":461,
+   "fields":{
+      "title":"Продукт 461",
+      "subcategory":93,
+      "price":501,
+      "description":"Какое-то описание продукта 461",
+      "quantity":34,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":462,
+   "fields":{
+      "title":"Продукт 462",
+      "subcategory":93,
+      "price":519,
+      "description":"Какое-то описание продукта 462",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":463,
+   "fields":{
+      "title":"Продукт 463",
+      "subcategory":93,
+      "price":914,
+      "description":"Какое-то описание продукта 463",
+      "quantity":42,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":464,
+   "fields":{
+      "title":"Продукт 464",
+      "subcategory":93,
+      "price":363,
+      "description":"Какое-то описание продукта 464",
+      "quantity":60,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":465,
+   "fields":{
+      "title":"Продукт 465",
+      "subcategory":93,
+      "price":199,
+      "description":"Какое-то описание продукта 465",
+      "quantity":89,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":466,
+   "fields":{
+      "title":"Продукт 466",
+      "subcategory":94,
+      "price":91,
+      "description":"Какое-то описание продукта 466",
+      "quantity":51,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":467,
+   "fields":{
+      "title":"Продукт 467",
+      "subcategory":94,
+      "price":297,
+      "description":"Какое-то описание продукта 467",
+      "quantity":66,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":468,
+   "fields":{
+      "title":"Продукт 468",
+      "subcategory":94,
+      "price":14,
+      "description":"Какое-то описание продукта 468",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":469,
+   "fields":{
+      "title":"Продукт 469",
+      "subcategory":94,
+      "price":310,
+      "description":"Какое-то описание продукта 469",
+      "quantity":89,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":470,
+   "fields":{
+      "title":"Продукт 470",
+      "subcategory":94,
+      "price":331,
+      "description":"Какое-то описание продукта 470",
+      "quantity":65,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":471,
+   "fields":{
+      "title":"Продукт 471",
+      "subcategory":95,
+      "price":810,
+      "description":"Какое-то описание продукта 471",
+      "quantity":56,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":472,
+   "fields":{
+      "title":"Продукт 472",
+      "subcategory":95,
+      "price":591,
+      "description":"Какое-то описание продукта 472",
+      "quantity":30,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":473,
+   "fields":{
+      "title":"Продукт 473",
+      "subcategory":95,
+      "price":42,
+      "description":"Какое-то описание продукта 473",
+      "quantity":45,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":474,
+   "fields":{
+      "title":"Продукт 474",
+      "subcategory":95,
+      "price":877,
+      "description":"Какое-то описание продукта 474",
+      "quantity":35,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":475,
+   "fields":{
+      "title":"Продукт 475",
+      "subcategory":95,
+      "price":904,
+      "description":"Какое-то описание продукта 475",
+      "quantity":38,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":476,
+   "fields":{
+      "title":"Продукт 476",
+      "subcategory":96,
+      "price":285,
+      "description":"Какое-то описание продукта 476",
+      "quantity":89,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":477,
+   "fields":{
+      "title":"Продукт 477",
+      "subcategory":96,
+      "price":82,
+      "description":"Какое-то описание продукта 477",
+      "quantity":90,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":478,
+   "fields":{
+      "title":"Продукт 478",
+      "subcategory":96,
+      "price":955,
+      "description":"Какое-то описание продукта 478",
+      "quantity":56,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":479,
+   "fields":{
+      "title":"Продукт 479",
+      "subcategory":96,
+      "price":177,
+      "description":"Какое-то описание продукта 479",
+      "quantity":64,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":480,
+   "fields":{
+      "title":"Продукт 480",
+      "subcategory":96,
+      "price":781,
+      "description":"Какое-то описание продукта 480",
+      "quantity":40,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":481,
+   "fields":{
+      "title":"Продукт 481",
+      "subcategory":97,
+      "price":286,
+      "description":"Какое-то описание продукта 481",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":482,
+   "fields":{
+      "title":"Продукт 482",
+      "subcategory":97,
+      "price":109,
+      "description":"Какое-то описание продукта 482",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":483,
+   "fields":{
+      "title":"Продукт 483",
+      "subcategory":97,
+      "price":211,
+      "description":"Какое-то описание продукта 483",
+      "quantity":33,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":484,
+   "fields":{
+      "title":"Продукт 484",
+      "subcategory":97,
+      "price":43,
+      "description":"Какое-то описание продукта 484",
+      "quantity":26,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":485,
+   "fields":{
+      "title":"Продукт 485",
+      "subcategory":97,
+      "price":212,
+      "description":"Какое-то описание продукта 485",
+      "quantity":19,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":486,
+   "fields":{
+      "title":"Продукт 486",
+      "subcategory":98,
+      "price":143,
+      "description":"Какое-то описание продукта 486",
+      "quantity":95,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":487,
+   "fields":{
+      "title":"Продукт 487",
+      "subcategory":98,
+      "price":440,
+      "description":"Какое-то описание продукта 487",
+      "quantity":57,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":488,
+   "fields":{
+      "title":"Продукт 488",
+      "subcategory":98,
+      "price":548,
+      "description":"Какое-то описание продукта 488",
+      "quantity":93,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":489,
+   "fields":{
+      "title":"Продукт 489",
+      "subcategory":98,
+      "price":523,
+      "description":"Какое-то описание продукта 489",
+      "quantity":50,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":490,
+   "fields":{
+      "title":"Продукт 490",
+      "subcategory":98,
+      "price":584,
+      "description":"Какое-то описание продукта 490",
+      "quantity":59,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":491,
+   "fields":{
+      "title":"Продукт 491",
+      "subcategory":99,
+      "price":807,
+      "description":"Какое-то описание продукта 491",
+      "quantity":58,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":492,
+   "fields":{
+      "title":"Продукт 492",
+      "subcategory":99,
+      "price":695,
+      "description":"Какое-то описание продукта 492",
+      "quantity":88,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":493,
+   "fields":{
+      "title":"Продукт 493",
+      "subcategory":99,
+      "price":353,
+      "description":"Какое-то описание продукта 493",
+      "quantity":65,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":494,
+   "fields":{
+      "title":"Продукт 494",
+      "subcategory":99,
+      "price":603,
+      "description":"Какое-то описание продукта 494",
+      "quantity":18,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":495,
+   "fields":{
+      "title":"Продукт 495",
+      "subcategory":99,
+      "price":620,
+      "description":"Какое-то описание продукта 495",
+      "quantity":69,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":496,
+   "fields":{
+      "title":"Продукт 496",
+      "subcategory":100,
+      "price":433,
+      "description":"Какое-то описание продукта 496",
+      "quantity":23,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":497,
+   "fields":{
+      "title":"Продукт 497",
+      "subcategory":100,
+      "price":438,
+      "description":"Какое-то описание продукта 497",
+      "quantity":39,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":498,
+   "fields":{
+      "title":"Продукт 498",
+      "subcategory":100,
+      "price":617,
+      "description":"Какое-то описание продукта 498",
+      "quantity":11,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":499,
+   "fields":{
+      "title":"Продукт 499",
+      "subcategory":100,
+      "price":602,
+      "description":"Какое-то описание продукта 499",
+      "quantity":65,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+{
+   "model":"goods.product",
+   "pk":500,
+   "fields":{
+      "title":"Продукт 500",
+      "subcategory":100,
+      "price":841,
+      "description":"Какое-то описание продукта 500",
+      "quantity":78,
+      "picture":"photo_2023-07-20_16-55-09.jpg"
+   }
+},
+   {
+      "model":"goods.city",
+      "pk":1,
+      "fields":{
+         "name":"Москва"
+      }
+   },
+     {
+      "model":"goods.city",
+      "pk":2,
+      "fields":{
+         "name":"С.Петербург"
+      }
+   }
+]

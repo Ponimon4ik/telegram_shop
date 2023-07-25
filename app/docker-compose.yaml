@@ -1,0 +1,58 @@
+version: '3.8'
+
+services:
+
+  migrate:
+    container_name: web_migrate
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+    command: python manage.py migrate --noinput
+    volumes:
+      - ./media/:/app/media/
+      - ./db/:/app/db/
+    env_file:
+      - .env
+
+  web:
+    container_name: web
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+    depends_on:
+      - migrate
+    volumes:
+      - ./media/:/app/media/
+      - ./db/:/app/db/
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    restart: always
+
+  redis:
+    image: redis:latest
+    container_name: bot_redis
+    env_file:
+      - .env
+    command: redis-server --requirepass ${REDIS_PASSWORD}
+    restart: always
+    expose:
+      - "6379"
+    depends_on:
+      - web
+    volumes:
+      - ./redis-data:/data
+
+  bot:
+    container_name: bot
+    build:
+      context: .
+      dockerfile: bot/Dockerfile
+    volumes:
+      - ./media/:/app/media/
+      - ./db/:/app/db/
+    env_file:
+      - .env
+    depends_on:
+      - redis
