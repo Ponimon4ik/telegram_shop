@@ -23,7 +23,7 @@ cd telegram_shop/app
 touch .env
 ```
 ```
-BOT_TOKEN=1848758819:AAE-43QpuXm5W31wEIPbTGe6xidI5phoMpc
+BOT_TOKEN=1848712319:AAE-43QpuXmаауауаыуаыуаыуаI5phoMpc
 REDIS_HOST=bot_redis
 REDIS_PORT=6379
 REDIS_PASSWORD=password
@@ -49,3 +49,5 @@ python manage.py createsuperuser
 docker-compose exec -it web bash
 python manage.py loaddata fixture.json
 ```
+
+Админка Джанго будет доступна по адресу http://localhost:8000
